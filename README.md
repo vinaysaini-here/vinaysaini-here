@@ -5,6 +5,7 @@
 </p>
 
 
+
 ## 🚀 About Me
 I'm a passionate **Full Stack Web Developer** and a **BCA Student** at **COER University, Roorkee**. I specialize in **MERN Stack (MongoDB, Express, React, Node.js)** and have experience in **Next.js, TypeScript, Machine Learning, and Android Development with Kotlin**.
 
