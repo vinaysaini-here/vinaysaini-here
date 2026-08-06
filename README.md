@@ -44,24 +44,12 @@ I'm a passionate **Full Stack Web Developer** and a **BCA Student** at **COER Un
 
 ## 📌 Projects
 
-### 🔹 [BuyBookOnline](https://buybookonline.onrender.com/)
+
 ✅ A full-fledged MERN Stack bookstore application with:
 - **Google Authentication & OTP-based Email Verification**
 - **Book Management for Authors**
 - **Cart, Favorites, and Order Tracking**
 - **Cloudinary Integration for Image Uploads**
-
-### 🔹 Course Selling Platform (In Progress)
-✅ A Next.js + TypeScript platform where users can buy/sell courses, featuring:
-- **Razorpay Payment Integration**
-- **Video, PDF, and DOCX Uploads using ImageKit**
-- **Course Reviews, Comments, and Instructor Replies**
-
-### 🔹 YouTube-like Video Sharing Platform (Upcoming)
-✅ A feature-rich video-sharing platform similar to YouTube with:
-- **Video Upload & Streaming**
-- **Live Chat & Comments**
-- **Monetization & Subscriptions**
 
 
 ---
