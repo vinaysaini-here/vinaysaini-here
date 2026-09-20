@@ -57,26 +57,6 @@ I'm a **Full Stack Developer** with a strong **MERN** background, currently a **
 
 *Also in progress: a React Native (Expo) e-commerce app, and a Three.js/Framer Motion solar-company marketing site.*
 
----
-
-### 🧭 Agentic AI Developer Roadmap (6/15)
-
-<details>
-<summary>Self-directed, progressively harder — click to expand</summary>
-<br>
-
-- [x] 1. AI File Organizer — tool calling, Groq `llama-3.3-70b-versatile`
-- [x] 2. AI Email Assistant — Gmail API, human-in-the-loop approvals
-- [x] 3. AI Calendar Scheduler — Google Calendar API v3
-- [x] 4. AI Research Agent — LangGraph ReAct + Tavily search
-- [x] 5. YouTube Summarizer & Q&A Agent — map-reduce summarization + RAG (ChromaDB)
-- [x] 6. AI Travel Planner — LangGraph fan-out/fan-in, Streamlit UI
-- [ ] 7. AI Resume Reviewer — ATS scoring + resume Q&A *(in progress)*
-- [ ] 8–15. Upcoming
-
-</details>
-
----
 
 ### 📊 GitHub Stats
 
