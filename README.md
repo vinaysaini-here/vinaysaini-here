@@ -43,27 +43,6 @@ I'm a **Full Stack Developer** with a strong **MERN** background, currently a **
 **Tools & Deployment**
 <p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /> </p>
 
----
-
-### 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **GitHub → Social AI Agent** *(in progress)* | Event-driven agent that watches GitHub push activity, decides what's post-worthy, and generates grounded LinkedIn/X drafts with human-approval or auto-publish. Built with production-grade rigor: idempotent webhooks, Groq→Gemini fallback, retries, guardrails. | FastAPI, LangGraph, MongoDB, React |
-| **RankPulse** | Real-time leaderboard SaaS platform built for global/remote job applications. | Node.js, Redis (Sorted Sets), BullMQ, WebSockets, React/Vite, Docker |
-| **BuyBookOnline** | Full MERN bookstore app with Google Auth + OTP email verification, author book management, cart/favorites/order tracking. | MongoDB, Express, React, Node.js, Cloudinary |
-| **AI Mock Interviewer** | Conversational mock-interview agent built directly on the Claude API. | Claude API, Node.js |
-| **FastAPI + PostgreSQL & MongoDB** | Backend fundamentals repo — full async CRUD on both a relational and document store. [View repo →](https://github.com/vinaysaini-here/FastAPI-with-PostgreSQL-MongoDB) | FastAPI, SQLAlchemy (async), Motor, Docker |
-
-*Also in progress: a React Native (Expo) e-commerce app, and a Three.js/Framer Motion solar-company marketing site.*
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vinaysaini-here&show_icons=true&theme=radical" height="165"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaysaini-here&theme=radical" height="165"/>
-</p>
 
 ---
 
